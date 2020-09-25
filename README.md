@@ -1,4 +1,4 @@
-<a href="https://pritishroy.technology"><img src="https://github.com/roycek7/PRITISH-ROY/blob/master/images/header.png" width="1000"></a>
+<a href="https://pritishroy.technology/about"><img src="https://github.com/roycek7/PRITISH-ROY/blob/master/images/header.png" width="1000"></a>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/roycek7)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pritish-roy-05661b7a/)
