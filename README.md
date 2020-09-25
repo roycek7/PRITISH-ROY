@@ -2,8 +2,8 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/roycek7)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pritish-roy-05661b7a/)
-[![Twitter Badge](https://img.shields.io/badge/-roycek-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/royce_k7/)](https://twitter.com/royce_k7)
-[![Facebook Badge](https://img.shields.io/badge/-pritish_roy-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/royce.pritish/)](https://www.facebook.com/royce.pritish)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/royce_k7/)](https://twitter.com/royce_k7)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/royce.pritish/)](https://www.facebook.com/royce.pritish)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/pritish_roy/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pritishroy99@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:pritishkumaar.roy@uqconnect.edu.com)
@@ -27,6 +27,15 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
+
+## ⚡ Blogs
+<ul style="padding-left:20px">
+  <li><a target="_blank" href="https://pritishroy.technology/post/3">Stochastic Dynamic Programming | Markov Decision Process</a></li>
+  <li><a target="_blank" href="https://pritishroy.technology/post/2">Operation Research II | Integer Programming</a></li>
+  <li><a target="_blank" href="https://pritishroy.technology/post/1">Operation Research I | Linear Programming</a></li>
+</ul>
+
+## ⚡ Github
 
 ![ROYCEK's github stats](https://github-readme-stats.vercel.app/api?username=roycek7&show_icons=true&hide_border=true)
 
