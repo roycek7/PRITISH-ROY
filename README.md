@@ -2,8 +2,8 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/roycek7)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pritish-roy-05661b7a/)
-[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/royce_k7)
-[![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/royce.pritish)
+[![Twitter Badge](https://img.shields.io/badge/-roycek-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/royce_k7/)](https://twitter.com/royce_k7)
+[![Facebook Badge](https://img.shields.io/badge/-pritish_roy-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/royce.pritish/)](https://www.facebook.com/royce.pritish)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/pritish_roy/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pritishroy99@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:pritishkumaar.roy@uqconnect.edu.com)
