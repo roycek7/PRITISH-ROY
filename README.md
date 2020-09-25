@@ -2,4 +2,4 @@
 <p align="center">Work with progressive organisation that gives the opportunity to utilise my skills in achieving common goals of the corporation and a bright personal career. Currently I am enrolled at The University of Queensland for Master of Data Science :school_satchel:. Three and a half year of work-experience in a highly scalable messaging platform and web services, built using Tornado asynchronous server, Celery task scheduler, Redis, SQLAlchemy the ORM and other technologies built on python delivering innovative products, services and solutions for Digital Health. Passionate about software|data engineering & areas of machine learning like deep learning, reinforcement learning:man_technologist: & computer vision :eyes: using deep learning to automate processes.
 </p>
 
-
+![ROYCEK's github stats](https://github-readme-stats.vercel.app/api?username=roycek7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
