@@ -3,3 +3,6 @@
 </p>
 
 ![ROYCEK's github stats](https://github-readme-stats.vercel.app/api?username=roycek7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roycek7&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=roycek7.roycek7)
