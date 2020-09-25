@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pritishroy99@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:pritishkumaar.roy@uqconnect.edu.com)
 
-<p align="center">Work with progressive organisation that gives the opportunity to utilise my skills in achieving common goals of the corporation and a bright personal career. Currently I am enrolled at The University of Queensland for Master of Data Science :school_satchel:. Three and a half year of work-experience in a highly scalable messaging platform and web services, built using Tornado asynchronous server, Celery task scheduler, Redis, SQLAlchemy the ORM and other technologies built on python delivering innovative products, services and solutions for Digital Health. Passionate about software|data engineering & areas of machine learning like deep learning, reinforcement learning:man_technologist: & computer vision :eyes:.
+<p align="center">Work with progressive organisation that gives the opportunity to utilise my skills in achieving common goals of the corporation and a bright personal career. Currently I am enrolled at The University of Queensland for Master of Data Science :school_satchel:. Three and a half year of work-experience in a highly scalable messaging platform and web services, built using tornado asynchronous server, celery task scheduler, redis, sqlalchemy the ORM and other technologies built on python delivering innovative products, services and solutions for digital health. Passionate about software|data engineering & areas of machine learning like deep learning, reinforcement learning:man_technologist: & computer vision :eyes:.
 </p>
 
 ## ⚡ Stack
@@ -17,9 +17,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Celery](https://img.shields.io/badge/-Celery-green?style=flat-square&logo=celery)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Celery](https://img.shields.io/badge/-Celery-181717?style=flat-square&logo=celery)
+![Flask](https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=flask)
+![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-181717?style=flat-square&logo=tensorflow)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-181717?style=flat-square&logo=pytorch)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
