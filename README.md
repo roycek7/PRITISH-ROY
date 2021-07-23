@@ -30,13 +30,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
-## ⚡ Blogs
-<ul style="padding-left:20px">
-  <li><a target="_blank" href="https://pritishroy.technology/post/3">Stochastic Dynamic Programming | Markov Decision Process</a></li>
-  <li><a target="_blank" href="https://pritishroy.technology/post/2">Operation Research II | Integer Programming</a></li>
-  <li><a target="_blank" href="https://pritishroy.technology/post/1">Operation Research I | Linear Programming</a></li>
-</ul>
-
 ## ⚡ Github
 
 ![ROYCEK's github stats](https://github-readme-stats.vercel.app/api?username=roycek7&show_icons=true&hide_border=true)
