@@ -29,19 +29,6 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## ⚡ Blogs
-<ul style="padding-left:20px">
-  <li><a target="_blank" href="https://thepritishroy.tech/post/8">Centralities Measure | Social Media Analytics</a></li>
-  <li><a target="_blank" href="https://thepritishroy.tech/post/7">Discrete Event Simulation | Statistical Methods for Data Science</a></li>
-  <li><a target="_blank" href="https://thepritishroy.tech/post/6">CyberBullying Detection in Social Media | Deep Learning</a></li>
-  <li><a target="_blank" href="https://thepritishroy.tech/post/5">EigenFaces| Principal Component Analysis | K Nearest Neighbour</a></li>
-  <li><a target="_blank" href="https://thepritishroy.tech/post/4">Decision Tree | ID3 (Iterative Dichotomiser 3)</a></li>
-  <li><a target="_blank" href="https://thepritishroy.tech/post/3">Stochastic Dynamic Programming | Markov Decision Process</a></li>
-  <li><a target="_blank" href="https://thepritishroy.tech/post/2">Operation Research II | Integer Programming</a></li>
-  <li><a target="_blank" href="https://thepritishroy.tech/post/1">Operation Research I | Linear Programming</a></li>
-</ul>
-
-
 ## ⚡ Github
 
 ![ROYCEK's github stats](https://github-readme-stats.vercel.app/api?username=roycek7&show_icons=true&hide_border=true)
